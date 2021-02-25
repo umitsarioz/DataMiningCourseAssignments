@@ -1,5 +1,5 @@
-# Data Mining Course Assignments
-All 3 assignment for data mining course in 20-21 Fall Semester. All files shared publicly for benefit others. Please don't forget cite, if you use any file or get inspiration  from them.
+# Data Mining Exercises
+All 3 data mining exercises files  . All files shared publicly for benefit others. Please don't forget cite, if you use any file or get inspiration from them.
 
 <ul>
 <li> 1st Assignment: Exploratory of data analysis and visualization.    </li>
